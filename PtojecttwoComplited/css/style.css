@@ -203,6 +203,7 @@ height: 100%;
 header {
 	display: flex;
 	justify-content: space-between;
+	align-items: center;
 	width: 100%;
 	max-width: 1270px;
 	background-color: rgba(255 , 255 , 255 , 0.5);
@@ -682,7 +683,7 @@ position: relative;
 		opacity: 0;
 	}
 	header {
-		min-height: 45px;
+		height: 45px;
 	}
 	.seach__area {
 		padding: 2px;
