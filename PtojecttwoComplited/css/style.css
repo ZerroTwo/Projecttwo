@@ -264,6 +264,7 @@ main{
 	border-radius: 5px;
 	padding: 5px;
 	transition: 0.5s all ease;
+	z-index: -1;
 }
 .seach__area input{
 	font-size: 16px;
